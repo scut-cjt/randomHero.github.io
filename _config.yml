@@ -1,20 +1,4 @@
 title: 我的个人博客
 description: 这是一个关于技术、生活和旅行的博客。
-url: http://www.masking.wang/randomHero.github.io/
-baseurl: /
+theme: minima
  
-theme: jekyll-theme-minimal
- 
-markdown: kramdown
-highlighter: rouge
- 
-plugins:
-  - jekyll-feed
- 
-author:
-  name: xbyw
-  email: xbyw@example.com
- 
-navigation:
-  - title: 首页
-    url: /
